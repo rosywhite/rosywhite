@@ -7,7 +7,7 @@
   -  [ofans ... /rosywhite](https://onlyfans.com/rosywhite)
   -  [reddit ... /user/rosy_white](https://www.reddit.com/user/rosy_white)
 
-- 🧸 Link from [my little blog i coded](https://diary-gamma.vercel.app/)  
+- 🧸 Posts from [my little blog i coded](https://diary-gamma.vercel.app/)  
   - [my ofans referral link](https://diary-gamma.vercel.app/posts/2022-01-26-referral)
   - [my first comedy special](https://diary-gamma.vercel.app/posts/2022-01-17-lay-down-comedy)  
   - [inner fantasies / nymphomania 🤤](https://diary-gamma.vercel.app/posts/2022-01-13-sexual-feeling)
