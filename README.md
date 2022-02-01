@@ -15,8 +15,9 @@
   - [meta-mental model for a golden age of humanity](https://diary-gamma.vercel.app/posts/golden-age)
   - [web3 tech stacks & architecting a new website](https://diary-gamma.vercel.app/posts/site-architecture)
   - [my backstory](https://diary-gamma.vercel.app/posts/the-beginning)
-  - [on love 🤍](https://diary-gamma.vercel.app/posts/on-love)
   - [on boundaries (how to protect love)](https://diary-gamma.vercel.app/posts/on-boundaries)
+  - [on love 🤍](https://diary-gamma.vercel.app/posts/on-love)
+
 
 <!---
 rosywhite/rosywhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
