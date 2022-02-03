@@ -8,9 +8,10 @@
   -  [reddit ... /user/rosy_white](https://www.reddit.com/user/rosy_white)
 
 - 🧸 Posts from [my little blog i coded](https://diary-gamma.vercel.app/)  
+  - [18+ nsfw posture & office furniture](https://diary-gamma.vercel.app/posts/2022-02-03-posture)
   - [my ofans referral link](https://diary-gamma.vercel.app/posts/2022-01-26-referral)
   - [my first comedy special](https://diary-gamma.vercel.app/posts/2022-01-17-lay-down-comedy)  
-  - [18+ nsfw text-only smut](https://diary-gamma.vercel.app/posts/2022-01-13-sexual-feeling)
+  - [18+ nsfw text smut](https://diary-gamma.vercel.app/posts/2022-01-13-sexual-feeling)
   - [why i feel completely free](https://diary-gamma.vercel.app/posts/2022-01-15-bison)
   - [meta-mental model for a golden age of humanity](https://diary-gamma.vercel.app/posts/golden-age)
   - [web3 tech stacks & architecting a new website](https://diary-gamma.vercel.app/posts/site-architecture)
