@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning ... rust
 - 💞️ I’m looking to collaborate on ... blockchain
 - 📫 How to reach me ... 
-  -  [the hub ... /model/rosy_white](https://www.pornhub.com/model/rosy_white) 
-  -  [ofans ... /rosywhite](https://onlyfans.com/rosywhite)
-  -  [reddit ... /user/rosy_white](https://www.reddit.com/user/rosy_white)
+  -  [the hub ... /model/rosy_white](https://www.pornhub.com/model/rosy_white) [nsfw/18+]
+  -  [ofans ... /rosywhite](https://onlyfans.com/rosywhite) [nsfw/18+]
+  -  [reddit ... /user/rosy_white](https://www.reddit.com/user/rosy_white) [nsfw/18+]
 
 - 🧸 Posts from [my little blog i coded](https://diary-gamma.vercel.app/)  
-  - [18+ nsfw posture & office furniture](https://diary-gamma.vercel.app/posts/2022-02-03-posture)
-  - [my ofans referral link](https://diary-gamma.vercel.app/posts/2022-01-26-referral)
+  - [on posture](https://diary-gamma.vercel.app/posts/2022-02-03-posture)  [nsfw/18+]
+  - [my ofans referral link](https://diary-gamma.vercel.app/posts/2022-01-26-referral) [nsfw/18+]
   - [my first comedy special](https://diary-gamma.vercel.app/posts/2022-01-17-lay-down-comedy)  
-  - [18+ nsfw text smut](https://diary-gamma.vercel.app/posts/2022-01-13-sexual-feeling)
+  - [on inner feelings](https://diary-gamma.vercel.app/posts/2022-01-13-sexual-feeling)  [nsfw/18+]
   - [why i feel completely free](https://diary-gamma.vercel.app/posts/2022-01-15-bison)
   - [meta-mental model for a golden age of humanity](https://diary-gamma.vercel.app/posts/golden-age)
   - [web3 tech stacks & architecting a new website](https://diary-gamma.vercel.app/posts/site-architecture)
@@ -19,7 +19,7 @@
   - [on boundaries (how to protect love)](https://diary-gamma.vercel.app/posts/on-boundaries)
   - [on love 🤍](https://diary-gamma.vercel.app/posts/on-love)
 
-
+note: i attempted to indicate which posts are nsfw. posts that are sfw do discuss my ofans business model and community philosophy.
 <!---
 rosywhite/rosywhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
