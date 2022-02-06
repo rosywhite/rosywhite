@@ -19,7 +19,6 @@
   - [on boundaries (how to protect love)](https://diary-gamma.vercel.app/posts/on-boundaries)
   - [on love 🤍](https://diary-gamma.vercel.app/posts/on-love)
 
-note: i attempted to indicate which posts are nsfw. posts that are sfw do discuss my ofans business model and community philosophy.
 <!---
 rosywhite/rosywhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
