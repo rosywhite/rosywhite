@@ -14,7 +14,6 @@
   - [on inner feelings](https://diary-gamma.vercel.app/posts/2022-01-13-sexual-feeling)  [nsfw/18+]
   - [why i feel completely free](https://diary-gamma.vercel.app/posts/2022-01-15-bison)
   - [meta-mental model for a golden age of humanity](https://diary-gamma.vercel.app/posts/golden-age)
-  - [web3 tech stacks & architecting a new website](https://diary-gamma.vercel.app/posts/site-architecture)
   - [my backstory](https://diary-gamma.vercel.app/posts/the-beginning)
   - [on boundaries (how to protect love)](https://diary-gamma.vercel.app/posts/on-boundaries)
   - [on love 🤍](https://diary-gamma.vercel.app/posts/on-love)
