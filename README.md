@@ -8,6 +8,10 @@
   -  [reddit ... /user/rosy_white](https://www.reddit.com/user/rosy_white) [nsfw/18+]
 
 - 🧸 Posts from [my little blog i coded](https://diary-gamma.vercel.app/) [nsfw/18+] 
+  - [three info diagram pics added to home page](https://diary-gamma.vercel.app/posts/2022-05-02)
+  - [maybe a definition of true love](https://diary-gamma.vercel.app/posts/2022-05-01-definition-of-love)
+  - [more mental models](https://diary-gamma.vercel.app/posts/2022-04-28-more-mental-models)
+  - [proof of love?](https://diary-gamma.vercel.app/posts/2022-04-27-proof-of-love)
   - [on posture](https://diary-gamma.vercel.app/posts/2022-02-03-posture)  [nsfw/18+]
   - [my ofans referral link](https://diary-gamma.vercel.app/posts/2022-01-26-referral)
   - [my first comedy special](https://diary-gamma.vercel.app/posts/2022-01-17-lay-down-comedy)  
